@@ -4,7 +4,6 @@ public class ComplexDemo {
         Complex complex1 = new Complex();
         Complex complex2 = new Complex(3.0, 4.0);
 
-        // Display the real and imaginary parts of the complex numbers
         System.out.println("Complex 1: Real Part = " + complex1.getRealPart() + ", Imaginary Part = "
                 + complex1.getImaginaryPart());
         System.out.println("Complex 2: Real Part = " + complex2.getRealPart() + ", Imaginary Part = "
