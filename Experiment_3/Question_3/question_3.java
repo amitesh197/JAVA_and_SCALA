@@ -22,7 +22,7 @@ public class  question_3 {
                 totalSum += arr[i];
             }
 
-            for (int i = 0; i < N; i++) {
+            for (int i = 0; i < N;i++) {
                 result[i] = totalSum - arr[i];
             }
 
