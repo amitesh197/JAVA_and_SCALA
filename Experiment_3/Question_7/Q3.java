@@ -1,6 +1,6 @@
 public class Q3 {
   public static void main(String[] args) {
-    String string = "This is a Java and Scala Laboratory!";
+    String string = "This is a Java and Scala Laboratory!!";
 
     int upperCaseCount = 0;
     int lowerCaseCount = 0;
