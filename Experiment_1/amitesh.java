@@ -5,6 +5,7 @@ class First{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the employee name: ");
         String empName = sc.nextLine();
+   
         System.out.println("Enter the employee no: ");
         int empNo = sc.nextInt();
         System.out.println("Enter the Basic: ");
