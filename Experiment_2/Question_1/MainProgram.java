@@ -1,5 +1,3 @@
-
-// MainProgram.java
 import mypackage.UserDefinedPackage;
 
 public class MainProgram {
