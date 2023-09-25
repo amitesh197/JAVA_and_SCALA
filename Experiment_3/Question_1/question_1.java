@@ -4,6 +4,7 @@ class question_1 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int number=0;
+        
         System.out.print("Enter a 4 digit number: ");
         number = sc.nextInt();
 
