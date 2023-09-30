@@ -1,5 +1,4 @@
 package Question3.Banking;
-
 class CurrentAccount extends Account {
     private double overdraftLimit;
 
