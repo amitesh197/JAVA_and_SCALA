@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 import letmecalculate.Calculator;
 
 public class MainProgram {
