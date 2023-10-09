@@ -7,6 +7,7 @@ class Student {
 
     public Student(int rollno) {
         this.rollno = rollno;
+        
     }
 }
 
