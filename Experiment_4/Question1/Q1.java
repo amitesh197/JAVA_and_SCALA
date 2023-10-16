@@ -1,4 +1,5 @@
-interface Sports {
+interface Sports 
+{
     int score();
 }
 
