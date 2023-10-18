@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 
-public class Q1 {
+public class Q1 
+{
 	public static void main(String[] args)
 		throws InterruptedException
 	{
