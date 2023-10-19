@@ -1,4 +1,5 @@
-public class Complex {
+public class Complex 
+{
     private double realPart;
     private double imaginaryPart;
 
