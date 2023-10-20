@@ -1,7 +1,8 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-public class Q4 {
+public class Q4 
+{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Vector<String> shoppingList = new Vector<>();
