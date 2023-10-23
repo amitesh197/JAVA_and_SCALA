@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-class Counter {
+class Counter
+    {
     private int count = 0;
 
     public synchronized void increment() {
