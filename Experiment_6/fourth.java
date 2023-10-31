@@ -4,7 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.lang.Math;
 
-public class fourth extends JFrame implements ActionListener {
+public class fourth extends JFrame implements ActionListener 
+{
     private JTextField textField;
     private double firstOperand, secondOperand, result;
     private String operator;
