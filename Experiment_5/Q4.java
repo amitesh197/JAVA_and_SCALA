@@ -1,4 +1,5 @@
-class four extends Thread{
+class four extends Thread
+{
     public void run(){
         System.out.println("Table of 4: ");
         for(int i=1; i<=10; i++){
