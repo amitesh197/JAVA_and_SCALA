@@ -1,7 +1,8 @@
 import java.util.Scanner;
 import letmecalculate.Calculator;
 
-public class MainProgram {
+public class MainProgram 
+{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
