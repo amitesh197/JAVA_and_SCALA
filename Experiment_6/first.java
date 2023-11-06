@@ -3,7 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class first {
+public class first 
+{
     public static void main(String[] args) {
         JFrame frame = new JFrame("My Info Window");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
