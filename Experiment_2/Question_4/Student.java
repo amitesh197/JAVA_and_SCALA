@@ -1,4 +1,5 @@
-public class Student {
+public class Student 
+{
     private String name;
 
     // Constructor with default "Unknown" name
