@@ -3,7 +3,8 @@ interface Sports
     int score();
 }
 
-class Student {
+class Student 
+{
     int rollno;
 
     public Student(int rollno) {
