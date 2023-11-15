@@ -3,7 +3,8 @@ import java.util.*;
 public class amitesh6 
     
 {
-    public static void main(String args[]){
+    public static void main(String args[])
+    {
         Scanner sc = new Scanner(System.in);   
         int quant, cost=100;
         double total_cost=0;
