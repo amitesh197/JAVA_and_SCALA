@@ -10,7 +10,8 @@ public class fourth extends JFrame implements ActionListener
     private double firstOperand, secondOperand, result;
     private String operator;
     
-    public fourth() {
+    public fourth() 
+    {
         setTitle("Scientific Calculator");
         setSize(400, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
