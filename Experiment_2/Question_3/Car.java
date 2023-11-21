@@ -1,4 +1,5 @@
-public class Car {
+public class Car 
+{
     private String brand;
 
     // Constructor to initialize the brand field
