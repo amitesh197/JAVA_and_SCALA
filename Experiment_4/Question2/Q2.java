@@ -4,7 +4,8 @@ abstract class Shape
     public abstract double area();
 }
 
-class Circle extends Shape {
+class Circle extends Shape 
+{
     private double radius;
 
     public Circle(double radius) {
