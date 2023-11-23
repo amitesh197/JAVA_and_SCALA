@@ -3,7 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class third extends JFrame {
+public class third extends JFrame 
+{
     private JTextField nameField;
     private JTextField emailField;
     private JPasswordField passwordField;
