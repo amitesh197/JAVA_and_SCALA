@@ -1,4 +1,5 @@
-public class Student {
+public class Student 
+{
     // Instance variables
     private String name;
     private int roll_no;
