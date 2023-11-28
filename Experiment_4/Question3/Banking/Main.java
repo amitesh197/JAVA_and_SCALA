@@ -1,7 +1,8 @@
 package Question3.Banking;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         
         SavingsAccount savingsAccount = new SavingsAccount(1, "John", 1000, 3.5);
         CurrentAccount currentAccount = new CurrentAccount(2, "Alice", 2000, 500);
