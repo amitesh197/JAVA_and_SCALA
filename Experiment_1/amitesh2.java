@@ -1,5 +1,6 @@
 import java.util.*;
-public class amitesh2{
+public class amitesh2
+{
 
      public static void main(String[] args)
      {
