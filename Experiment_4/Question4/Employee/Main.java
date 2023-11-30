@@ -7,6 +7,7 @@ public class Main
     public static void main(String[] args) 
     {
         Employee emp1 = new Employee("John Doe", 60000, 2015, "NI12345");
+        
         Employee emp2 = new Employee("Jane Smith", 55000, 2017, "NI54321");
 
         System.out.println("Employee 1 Details:");
