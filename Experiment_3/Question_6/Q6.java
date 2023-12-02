@@ -1,4 +1,5 @@
-public class Q6 {
+public class Q6 
+{
     public static void main(String[] args) {
         String s1 = "geeks";
         System.out.println("First string is: " + s1);
