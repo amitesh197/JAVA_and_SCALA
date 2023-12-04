@@ -1,6 +1,7 @@
 import java.util.*;
 import MyErrorClasses.MyErrorClass;
-public class Q3{
+public class Q3
+{
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);
         int seatno, center_number, sem1, sem2, sem3; 
