@@ -1,4 +1,5 @@
-public class ComplexDemo {
+public class ComplexDemo 
+{
     public static void main(String[] args) {
         // Create complex numbers using the Complex class
         Complex complex1 = new Complex();
