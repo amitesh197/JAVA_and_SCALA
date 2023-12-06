@@ -13,7 +13,8 @@ class Student
     }
 }
 
-class Test extends Student {
+class Test extends Student 
+{
     int sem1_marks;
     int sem2_marks;
 
