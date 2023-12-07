@@ -3,7 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class second extends JFrame implements ActionListener {
+public class second extends JFrame implements ActionListener 
+{
     private JLabel label;
 
     public second() {
