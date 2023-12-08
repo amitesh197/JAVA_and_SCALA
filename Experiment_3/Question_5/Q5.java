@@ -18,7 +18,8 @@ public class Q5
 
         int frequency = 0;
 
-        for (int i = 0; i < vector.size(); i++) {
+        for (int i = 0; i < vector.size(); i++) 
+        {
             if (vector.get(i) == elementToFind) {
                 frequency++;
             }
