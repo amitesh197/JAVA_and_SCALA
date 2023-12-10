@@ -7,7 +7,8 @@ public class Q1
 	{
 		final PC pc = new PC();
 
-		Thread t1 = new Thread(new Runnable() {
+		Thread t1 = new Thread(new Runnable() 
+		{
 			@Override
 			public void run()
 			{
