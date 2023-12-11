@@ -11,7 +11,8 @@ public class amitesh6
         System.out.println("enter the quantity: ");
         quant = sc.nextInt();
         total_cost = cost * quant;
-        if(total_cost > 1000){
+        if(total_cost > 1000)
+        {
             total_cost = total_cost * 0.9;
         }
         System.out.println("Total cost is: " + total_cost);
