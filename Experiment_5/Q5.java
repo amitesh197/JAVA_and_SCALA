@@ -1,4 +1,5 @@
-class InvalidCredentialsException extends Exception {
+class InvalidCredentialsException extends Exception 
+{
     public InvalidCredentialsException(String message) {
         super(message);
     }
