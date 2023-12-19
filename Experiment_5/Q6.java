@@ -9,7 +9,8 @@ class Counter
         count++;
     }
 
-    public synchronized void decrement() {
+    public synchronized void decrement() 
+    {
         count--;
     }
 
