@@ -8,7 +8,8 @@ class four extends Thread
     }
 }
 
-class five extends Thread{
+class five extends Thread
+{
     public void run(){
         System.out.println("Table of 5: ");
         for(int i=1; i<=10; i++){
