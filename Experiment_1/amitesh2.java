@@ -9,7 +9,8 @@ public class amitesh2
         int n, i, fact=1;
         System.out.println("Enter number: ");
         n = obj.nextInt();
-        for(i=1; i<=n; i++){
+        for(i=1; i<=n; i++)
+        {
             fact*=i;
         }
         System.out.println("The factorial is: " + fact);
