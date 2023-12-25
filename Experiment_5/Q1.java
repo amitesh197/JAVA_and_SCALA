@@ -21,7 +21,8 @@ public class Q1
 			}
 		});
 
-		Thread t2 = new Thread(new Runnable() {
+		Thread t2 = new Thread(new Runnable() 
+		{
 			@Override
 			public void run()
 			{
