@@ -1,6 +1,7 @@
 package Question4.Employee.person;
 
-public class Person {
+public class Person 
+{
 
     private String name;
 
