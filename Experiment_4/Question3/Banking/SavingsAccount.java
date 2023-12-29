@@ -1,6 +1,7 @@
 package Question3.Banking;
 
-class SavingsAccount extends Account {
+class SavingsAccount extends Account 
+{
     private double interestRate;
 
     public SavingsAccount(int accountNumber, String accountHolder, double balance, double interestRate) {
