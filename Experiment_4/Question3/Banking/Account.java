@@ -1,6 +1,7 @@
 package Question3.Banking;
 
-class Account {
+class Account 
+{
     private int accountNumber;
     private String accountHolder;
     protected double balance;
