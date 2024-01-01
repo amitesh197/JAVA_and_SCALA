@@ -1,7 +1,8 @@
 package Question4.Employee.employee;
 import Question4.Employee.person.*;
 
-public class Employee extends Person {
+public class Employee extends Person 
+{
     private double annualSalary;
     private int startYear;
     private String nationalInsuranceNumber;
