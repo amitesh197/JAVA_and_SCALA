@@ -1,7 +1,8 @@
 import java.util.*;
 class amitesh5
 {
-    public static void main(String args[]){
+    public static void main(String args[])
+    {
         Scanner sc = new Scanner(System.in);
         int x=2, y=5, z=0;
         boolean a = (x==2);
