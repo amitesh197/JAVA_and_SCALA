@@ -1,4 +1,5 @@
-public class MainProgram {
+public class MainProgram 
+{
     public static void main(String[] args) {
         // Create a student with the default name "Unknown"
         Student student1 = new Student();
